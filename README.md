@@ -3,39 +3,31 @@ Python script that renders .obj files using OpenGL and glfw.
 
 High Polygon Model of an Aventador:
 
-![](3dviewertest.gif)
+![](demo.gif)
 
 # Controls
-- Press 1 to rotate 10° to the left with respect to the coordinates
+- Drag .obj file to the window to load the model.
 
-![](/demos/demoRotateLeft.png)
+![](/demos/demoLoadObj.gif)
 
-- Press 3 to rotate 10° to the right with respect to the coordinates
+- Press 1 / 3 to rotate 10° to the left / right with respect to the coordinates.
 
-![](/demos/demoRotateRight.png)
+![](/demos/demoLeftandRight.gif)
 
-- Press 2 to move the camera up with respects to the coordinates.
+- Press 2 / W to move the camera up / down with respects to the coordinates.
 
-![](/demos/demoUpKey.png)
+![](/demos/demoUpandDown.gif)
 
-- Press W to move the camera down with respects to the coordinates.
+- Press A / S to zoom in / out.
 
-![](/demos/demoDownKey.png)
+![](/demos/demoZoomInandOut.gif)
 
-- Press A to zoom in.
+- Press Z to Toggle between Wireframe / Fill mode.
 
-![](/demos/demoZoomIn.png)
-
-- Press S to zoom out.
-
-![](/demos/demoZoomOut.png)
-
-- Press Z to Toggle between Wireframe and Fill mode.
-
-![](demoZoom.png)
+![](demoWireframe.gif)
 
 - Press V to reset the view.
 
-![](/demos/demoResetCamera.png)
+![](/demos/demoReset.gif)
 
 
