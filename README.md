@@ -3,7 +3,7 @@ Python script that renders .obj files using OpenGL and glfw.
 
 High Polygon Model of an Aventador:
 
-![](demo.gif)
+![](/demos/demo.gif)
 
 # Controls
 - Drag .obj file to the window to load the model.
@@ -24,7 +24,7 @@ High Polygon Model of an Aventador:
 
 - Press Z to Toggle between Wireframe / Fill mode.
 
-![](demoWireframe.gif)
+![](/demos/demoWireframe.gif)
 
 - Press V to reset the view.
 
