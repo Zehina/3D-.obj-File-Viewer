@@ -13,9 +13,11 @@ High Polygon Model of an Aventador:
 
 - Press A to zoom in.
 - Press S to zoom out.
+
 ![](/demos/testzoomout.png)
 
 - Press Z to Toggle between Wireframe and Fill mode.
+
 ![](wolf.png)
 
 - Press V to reset the view.
